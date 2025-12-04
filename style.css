@@ -32,8 +32,12 @@
 .idea .button {
     background-color: #006A40;
     color: white;
-
 }
-.img{
+
+.img {
     margin-left: 100px;
+}
+
+.Pillars {
+    padding: 30px 160px;
 }
